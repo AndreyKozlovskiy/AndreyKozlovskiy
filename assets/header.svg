@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Andrey Kozlovskiy</title>
+  <desc id="desc">Backend development. Node.js and TypeScript. A lime and violet technical illustration with a circuit cat.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 H 0 V 32" fill="none" stroke="#202a37" stroke-width="1"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="420" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="420" fill="#0c111b"/>
+    <rect x="760" width="440" height="420" fill="url(#grid)"/>
+    <path d="M810 0H1200V420H1040L810 190Z" fill="#151829"/>
+    <path d="M1036 0H1200V164Z" fill="#b7fa4b"/>
+    <path d="M1108 0H1200V92Z" fill="#0c111b"/>
+    <rect x="48" y="44" width="8" height="18" fill="#b7fa4b"/>
+    <text x="69" y="59" fill="#b7fa4b" font-family="Menlo,Consolas,monospace" font-size="15" letter-spacing="2">ANDREYKOZLOVSKIY / GITHUB</text>
+    <text x="44" y="154" fill="#f1f5fa" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="80" letter-spacing="-3">ANDREY</text>
+    <text x="44" y="237" fill="#f1f5fa" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="80" letter-spacing="-3">KOZLOVSKIY<tspan fill="#b7fa4b">.</tspan></text>
+    <text x="49" y="292" fill="#b7fa4b" font-family="Menlo,Consolas,monospace" font-size="22">&gt; backend development</text>
+    <path d="M48 326H704" stroke="#303a48"/>
+    <text x="49" y="368" fill="#aab7c9" font-family="Menlo,Consolas,monospace" font-size="17" letter-spacing="1">NODE.JS</text>
+    <circle cx="166" cy="362" r="3" fill="#a790ff"/>
+    <text x="189" y="368" fill="#aab7c9" font-family="Menlo,Consolas,monospace" font-size="17" letter-spacing="1">TYPESCRIPT</text>
+    <g fill="none" stroke="#a790ff" stroke-width="3">
+      <path d="M850 110H808V76H760"/><path d="M1054 279H1104V333H1155"/>
+      <path d="M837 269H797V325H742"/>
+      <circle cx="760" cy="76" r="6" fill="#0c111b"/><circle cx="1155" cy="333" r="6" fill="#0c111b"/>
+      <circle cx="742" cy="325" r="6" fill="#0c111b"/>
+    </g>
+    <g transform="translate(824 85)">
+      <path d="M23 53V0L83 39H150L210 0V53Q239 78 239 120V151Q239 205 185 217H48Q-5 205-5 151V120Q-5 78 23 53Z" fill="#24213d" stroke="#a790ff" stroke-width="4" stroke-linejoin="round"/>
+      <path d="M41 36V64L67 51ZM191 36V64L165 51Z" fill="#a790ff"/>
+      <path d="M38 97H91M143 97H196" stroke="#b7fa4b" stroke-width="9"/>
+      <path d="M65 95V122M169 95V122" stroke="#b7fa4b" stroke-width="9"/>
+      <path d="M105 143H129L117 155Z" fill="#b7fa4b"/>
+      <path d="M117 155V165L102 176M117 165L132 176" fill="none" stroke="#a790ff" stroke-width="4" stroke-linecap="round"/>
+      <path d="M15 142H-23M15 159H-15M217 142H255M217 159H247" stroke="#a790ff" stroke-width="3"/>
+    </g>
+    <rect x="865" y="339" width="170" height="32" rx="4" fill="#b7fa4b"/>
+    <text x="950" y="360" text-anchor="middle" fill="#0c111b" font-family="Menlo,Consolas,monospace" font-size="13" font-weight="700">cat / supervisor</text>
+    <rect y="414" width="1200" height="6" fill="#a790ff"/>
+    <rect y="414" width="720" height="6" fill="#b7fa4b"/>
+  </g>
+</svg>

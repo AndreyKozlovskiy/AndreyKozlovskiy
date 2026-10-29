@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="44" viewBox="0 0 620 44" role="img" aria-labelledby="title">
+  <title id="title">Node.js, TypeScript, C# / .NET, Java / Spring</title>
+  <g font-family="Menlo,Consolas,monospace" font-size="13" font-weight="600">
+    <rect width="130" height="40" rx="6" fill="#182719"/><path d="M0 6Q0 0 6 0H8V40H6Q0 40 0 34Z" fill="#b7fa4b"/>
+    <text x="25" y="25" fill="#c9fc8d">Node.js</text>
+    <rect x="142" width="148" height="40" rx="6" fill="#13273a"/><path d="M142 6Q142 0 148 0H150V40H148Q142 40 142 34Z" fill="#58b9ff"/>
+    <text x="164" y="25" fill="#9ed7ff">TypeScript</text>
+    <rect x="302" width="142" height="40" rx="6" fill="#27203b"/><path d="M302 6Q302 0 308 0H310V40H308Q302 40 302 34Z" fill="#a790ff"/>
+    <text x="324" y="25" fill="#d4c7ff">C# / .NET</text>
+    <rect x="456" width="164" height="40" rx="6" fill="#32251b"/><path d="M456 6Q456 0 462 0H464V40H462Q456 40 456 34Z" fill="#ffb86b"/>
+    <text x="477" y="25" fill="#ffd3a4">Java / Spring</text>
+  </g>
+</svg>
