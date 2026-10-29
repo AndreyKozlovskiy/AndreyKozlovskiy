@@ -7,5 +7,5 @@
 I connect AI features to backend services with **TypeScript and Node.js**.
 
 <p>
-  <img src="./assets/stack-ai.svg" width="620" alt="LLM apps · Backend · Frontend · TypeScript" />
+  <img src="./assets/stack-focus.svg" width="620" alt="LLM apps · Backend · Frontend · TypeScript" />
 </p>
