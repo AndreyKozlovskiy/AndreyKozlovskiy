@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Andrey Kozlovskiy</title>
-  <desc id="desc">Backend development. Node.js and TypeScript. A lime and violet technical illustration with a circuit cat.</desc>
+  <title id="title">Andrey Kozlovskiy · AI engineering</title>
+  <desc id="desc">AI engineering. LLM applications and AI assistants. A lime and violet technical illustration with a circuit cat.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 H 0 V 32" fill="none" stroke="#202a37" stroke-width="1"/></pattern>
     <clipPath id="clip"><rect width="1200" height="420" rx="20"/></clipPath>
@@ -13,9 +13,9 @@
     <path d="M1108 0H1200V92Z" fill="#0c111b"/>
     <rect x="48" y="44" width="8" height="18" fill="#b7fa4b"/>
     <text x="69" y="59" fill="#b7fa4b" font-family="Menlo,Consolas,monospace" font-size="15" letter-spacing="2">ANDREYKOZLOVSKIY / GITHUB</text>
-    <text x="44" y="154" fill="#f1f5fa" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="80" letter-spacing="-3">ANDREY</text>
-    <text x="44" y="237" fill="#f1f5fa" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="80" letter-spacing="-3">KOZLOVSKIY<tspan fill="#b7fa4b">.</tspan></text>
-    <text x="49" y="292" fill="#b7fa4b" font-family="Menlo,Consolas,monospace" font-size="22">&gt; backend development</text>
+    <text x="44" y="154" fill="#f1f5fa" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="94" letter-spacing="-3" fill-opacity="1">AI</text>
+    <text x="44" y="237" fill="#f1f5fa" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="72" letter-spacing="-3">ENGINEERING<tspan fill="#b7fa4b">.</tspan></text>
+    <text x="49" y="292" fill="#b7fa4b" font-family="Menlo,Consolas,monospace" font-size="22">&gt; LLM apps &amp; AI assistants</text>
     <path d="M48 326H704" stroke="#303a48"/>
     <text x="49" y="368" fill="#aab7c9" font-family="Menlo,Consolas,monospace" font-size="17" letter-spacing="1">NODE.JS</text>
     <circle cx="166" cy="362" r="3" fill="#a790ff"/>
@@ -36,7 +36,7 @@
       <path d="M15 142H-23M15 159H-15M217 142H255M217 159H247" stroke="#a790ff" stroke-width="3"/>
     </g>
     <rect x="865" y="339" width="170" height="32" rx="4" fill="#b7fa4b"/>
-    <text x="950" y="360" text-anchor="middle" fill="#0c111b" font-family="Menlo,Consolas,monospace" font-size="13" font-weight="700">cat / supervisor</text>
+    <text x="950" y="360" text-anchor="middle" fill="#0c111b" font-family="Menlo,Consolas,monospace" font-size="13" font-weight="700">agent / supervisor</text>
     <rect y="414" width="1200" height="6" fill="#a790ff"/>
     <rect y="414" width="720" height="6" fill="#b7fa4b"/>
   </g>
